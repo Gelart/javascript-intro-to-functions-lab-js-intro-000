@@ -8,5 +8,5 @@ function logShout(string) {
   console.log.toUpperCase()
 }
 function shout(sayHiToGrandma){
-  return "I can,t hear you!".toLowerCase()
+  return "I can't hear you!".toLowerCase()
 }
